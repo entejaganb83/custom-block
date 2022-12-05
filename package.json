@@ -2,7 +2,7 @@
     "name": "custom-block",
     "version": "1.0.0",
     "description": "Node.js on Docker",
-    "author": "suresh",
+    "author": "jagan",
     "main": "app.js",
     "scripts": {
       "start": "node app.js"
